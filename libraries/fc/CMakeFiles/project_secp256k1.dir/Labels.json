@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/li/bitshares-core/libraries/fc/CMakeFiles/project_secp256k1"
+		},
+		{
+			"file" : "/home/li/bitshares-core/libraries/fc/CMakeFiles/project_secp256k1.rule"
+		},
+		{
+			"file" : "/home/li/bitshares-core/libraries/fc/CMakeFiles/project_secp256k1-complete.rule"
+		},
+		{
+			"file" : "/home/li/bitshares-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-install.rule"
+		},
+		{
+			"file" : "/home/li/bitshares-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-mkdir.rule"
+		},
+		{
+			"file" : "/home/li/bitshares-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-download.rule"
+		},
+		{
+			"file" : "/home/li/bitshares-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-update.rule"
+		},
+		{
+			"file" : "/home/li/bitshares-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-patch.rule"
+		},
+		{
+			"file" : "/home/li/bitshares-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-configure.rule"
+		},
+		{
+			"file" : "/home/li/bitshares-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-build.rule"
+		},
+		{
+			"file" : "/home/li/bitshares-core/libraries/fc/vendor/secp256k1-zkp/src/project_secp256k1-stamp/project_secp256k1-autogen.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"project_secp256k1"
+		],
+		"name" : "project_secp256k1"
+	}
+}
